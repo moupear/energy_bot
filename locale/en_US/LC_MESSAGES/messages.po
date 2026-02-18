@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: 2024-08-27 23:07+0800\n"
+"PO-Revision-Date: 2024-08-27 23:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ../../..\n"
+
+msgid "Energy"
+msgstr "🔋 Rental Energy"
+
+msgid "Recharge"
+msgstr "💰 Balance Recharge"
+
+msgid "Promotion Cashback"
+msgstr "📢 Promotion Cashback"
+
+msgid "Promotion Cashback Link"
+msgstr "📍Your Invitation Link \n 🎡Activity: Users registered through the invitation link to recharge, according to <b>{0}</b> cashback to you, you can contact customer service to withdraw cash\n <code>{1}</code>"
+
+msgid "Switch Language"
+msgstr "⚙️ Language / 语言"
+
+msgid "Supported Languages"
+msgstr "请选择语言"
+
+msgid "Set Languages"
+msgstr "The bot language has been set to English"
+
+msgid "Group"
+msgstr "💬 Group"
+
+msgid "Contact Us"
+msgstr "👨🏻‍💻 Customer Support"
+
+msgid "Start"
+msgstr "🙋Hello and welcome to the Energy Rental Bot\n💰 Balance: {0} TRX \n💵 Unit Price：{1} TRX/pen/65000 energy\n ⌚️Current Time: {2}"
+
+msgid "Start Using"
+msgstr "🙋Hello, Welcome to the Energy Rental Bot\n💰 Balance: {0} TRX \n💵 Unit Price：{1} TRX/pen/65000 energy\n"
+"⌚️Current Time: {2}\n\n ✏️Receive energy address: <code>{3}</code>\n 🔔 One-click leasing, send the required number of strokes directly\n 📌 To change the address for receiving energy, please send the new address directly to the bot!"
+
+msgid "Start Using Energy"
+msgstr "Please enter the address where the energy is needed"
+
+msgid "Recharge Trx"
+msgstr "TRX"
+
+msgid "Recharge Usdt"
+msgstr "USDT(TRC20)"
+
+msgid "Back"
+msgstr "🏡 Back Home"
+
+msgid "Recharge Method"
+msgstr "🏷Please choose the recharge method\n\n 📈Real-time exchange rate: 1USDT = {0} TRX\n\n 🩸 USDT top-ups are automatically converted to TRX balances"
+
+msgid "Recharge Trx Num"
+msgstr "How much TRX do you need to recharge?\n\n 【Min】 1 \n 【Max】 10,000,000 \n\n Please send the required top-up amount directly"
+
+msgid "Recharge Usdt Num"
+msgstr "How much USDT do you need to recharge?\n\n 【Min】 1 \n 【Max】 10,000,000 \n\n Please send the required top-up amount directly"
+
+msgid "Pay Recharge Num Err"
+msgstr "❌There is an error in the input, please re-enter the amount"
+
+msgid "Pay Recharge Trx Num"
+msgstr "You need to pay <b> {0} TRX</b>to the following address\n\n <code>{1}</code>\n\n <b>Account will be credited automatically after successful payment</b>"
+
+msgid "Pay Recharge Usdt Num"
+msgstr "ou need to pay <b> {0} USDT</b>to the following address\n\n <code>{1}</code>\n\n <b>Account will be credited automatically after successful payment</b>"
+
+msgid "Cancel Order"
+msgstr "❌ Cancel Order"
+
+msgid "Cancel Order Operation"
+msgstr "Order No: {0}, canceled successfully"
+
+msgid "Update Address"
+msgstr "📍TRC20 Rental Address \n\n<code>{0}</code>\n\n 🔔Prompts\n Another address with U, Send 1, get 65000 energy \n Another address without U, Send 1, get 131000 energy"
+
+msgid "Address Not Activated"
+msgstr "⚠️The address is not activated, please activate it first and then come back to the operation"
+
+msgid "No Address Set"
+msgstr "⚠️The address for receiving energy is not set\n\n️Please send the address where you need to rent energy"
+
+msgid "Rental Energy Num"
+msgstr "📢 <b>Successfully leased {0} pen energy</b>\n 💵 Sum Of Money：{1} TRX\n 📍 Address：{2} \n ⌛️Recovery Time：{3}"
+
+msgid "Energy Insufficient"
+msgstr "⚠️ Rental failure, energy deficit"
+
+msgid "Balance Insufficient"
+msgstr "📢 <b>Insufficient balance, please recharge first!</b>\n\n ⚡ Commodity Price: {0} TRX\n\n 💰️ Balance: <code>{1}</code>"

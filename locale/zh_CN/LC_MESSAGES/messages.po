@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"POT-Creation-Date: 2024-08-27 23:07+0800\n"
+"PO-Revision-Date: 2024-08-27 23:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ../../..\n"
+
+msgid "Energy"
+msgstr "🔋 租赁能量"
+
+msgid "Recharge"
+msgstr "💰 余额充值"
+
+msgid "Promotion Cashback"
+msgstr "📢 推广返现"
+
+msgid "Promotion Cashback Link"
+msgstr "📍您的邀请链接 \n 🎡活动：通过邀请链接注册的用户充值，按照<b>{0}</b> 返现给你, 可以联系客服提现\n <code>{1}</code>"
+
+msgid "Switch Language"
+msgstr "⚙️ 语言 / Language"
+
+msgid "Supported Languages"
+msgstr "Please Choose your Language"
+
+msgid "Set Languages"
+msgstr "语言已设置为 简体中文"
+
+msgid "Group"
+msgstr "💬 群组"
+
+msgid "Contact Us"
+msgstr "👨🏻‍💻 客服"
+
+msgid "Start"
+msgstr "🙋您好，欢迎使用 能量机器人\n💰 余额: {0} TRX \n💵 单价：{1} TRX/笔/65000能量\n ⌚️当前时间: {2}"
+
+msgid "Start Using"
+msgstr "🙋您好，欢迎使用 能量机器人\n💰 余额: {0} TRX \n💵 单价：{1} TRX/笔/65000能量\n"
+"⌚️当前时间: {2}\n\n ✏️接收地址: <code>{3}</code>\n 🔔 直接回复转账次数一键租用\n 📌 如需修改接收地址请直接发送新的地址给机器人！"
+
+msgid "Start Using Energy"
+msgstr "请输入需要能量的地址"
+
+msgid "Recharge Trx"
+msgstr "TRX"
+
+msgid "Recharge Usdt"
+msgstr "USDT(TRC20)"
+
+msgid "Back"
+msgstr "🏡 返回主页"
+
+msgid "Recharge Method"
+msgstr "🏷请选择充值方式\n\n 📈实时汇率 ：1USDT = {0} TRX\n\n 🩸USDT充值自动换算成TRX余额"
+
+msgid "Recharge Trx Num"
+msgstr "你需要充值多少TRX?\n\n 【最低】 1 \n 【最高】 10,000,000 \n\n 请直接发送你所需充值的数量"
+
+msgid "Recharge Usdt Num"
+msgstr "你需要充值多少USDT?\n\n 【最低】 1 \n 【最高】 10,000,000 \n\n 请直接发送你所需充值的数量"
+
+msgid "Pay Recharge Num Err"
+msgstr "❌输入有误, 请重新输入金额"
+
+msgid "Pay Recharge Trx Num"
+msgstr "你需要向以下地址支付<b> {0} TRX</b>\n\n <code>{1}</code>\n\n <b>支付完成,自动到账</b>"
+
+msgid "Pay Recharge Usdt Num"
+msgstr "你需要向以下地址支付<b> {0} USDT</b>\n\n <code>{1}</code>\n\n <b>支付完成,自动到账</b>"
+
+msgid "Cancel Order"
+msgstr "取消订单"
+
+msgid "Cancel Order Operation"
+msgstr "订单号{0}取消成功"
+
+msgid "Update Address"
+msgstr "📍TRC20租用地址 \n\n<code>{0}</code>\n\n 🔔提示\n 另一个地址有U, 发送 1 获取 65000能量\n 另一个地址无U, 发送 2 获取131000能量"
+
+msgid "Address Not Activated"
+msgstr "⚠️地址未激活，请先激活后再来操作"
+
+msgid "No Address Set"
+msgstr "⚠️未设置接收能量的地址\n\n️请直接发送你所需租用能量的地址"
+
+msgid "Rental Energy Num"
+msgstr "📢 <b>成功租用{0} 笔能量</b>\n 💵 金额：{1} TRX\n 📍 地址：{2} \n ⌛️回收时间：{3}"
+
+msgid "Energy Insufficient"
+msgstr "⚠️ 租用失败, 能量不足"
+
+msgid "Balance Insufficient"
+msgstr "📢 <b>TRX余额不足，请先充值！</b>\n\n ⚡ 商品价格: {0} TRX\n\n 💰️ 钱包余额: <code>{1}</code>"
