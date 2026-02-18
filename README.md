@@ -94,7 +94,9 @@
 - 安装 Python 3.10+
 - 安装 PostgreSQL，并创建数据库（默认库名 `bot`，可在 `config.py` 中调整）
 - 创建虚拟环境并安装依赖（请根据实际依赖文件调整）：
-
+```shell
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+
