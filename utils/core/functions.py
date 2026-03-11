@@ -57,7 +57,7 @@ async def rental_energy(cid, enter_num, period, address):
     method = "POST"
 
     data = {
-        "energy_amount": float(energy_num), 
+        "energy_amount": int(energy_num), 
         "period": int(0),                  
         "receive_address": str(address), 
     }
