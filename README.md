@@ -9,7 +9,7 @@
 - 多语言支持（中文 / 英文）
 ## 使用交流
 
-关注Telegram官方频道：https://t.me/digipick
+关注Telegram官方频道：https://t.me/neuov
 
 ## 技术栈
 
